@@ -11,10 +11,10 @@
 ## Questions - Self Study - You can exercise your Google-Fu for this and any other _Sprint Challenge_ in the future.
 
 1.  In Jest, what are the differences between `beforeAll`, `afterAll`, `beforeEach`, and `afterEach` and what are good uses for them?
-1.  What is the point of `Test Driven Development`? What do you think about this approach?
-1.  What are `Jest mock`? What are a good use case for them?
-1.  Mention three types of tests.
-1.  What type of test performs database operations against a real server.
+2.  What is the point of `Test Driven Development`? What do you think about this approach?
+3.  What are `Jest mock`? What are a good use case for them?
+4.  Mention three types of tests.
+5.  What type of test performs database operations against a real server.
 
 ## Initializing Project
 
